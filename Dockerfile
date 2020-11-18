@@ -1,4 +1,4 @@
-FROM kong:2.0.5-alpine
+FROM kong:2.2.0-alpine
 
 LABEL org.opencontainers.image.source="https://github.com/reciideo-lms/api-gateway"
 
